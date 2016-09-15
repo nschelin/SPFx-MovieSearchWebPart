@@ -1,0 +1,19 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "f525b406-ff78-4cfb-af27-a87a1e8f150f",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "f525b406-ff78-4cfb-af27-a87a1e8f150f",
+    "group": { "default": "Under Development" },
+    "title": { "default": "MovieSearch" },
+    "description": { "default": "Web Part that searches for Movies" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "MovieSearch"
+    }
+  }]
+}

@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "moviesearch-client-side-solution",
+    "id": "30eb5b55-350a-4394-ba9c-1d44a403eb8e",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "moviesearch.spapp"
+  }
+}
