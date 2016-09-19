@@ -7,7 +7,9 @@
   },
   "dependencies": {
     "@microsoft/sp-client-base": "~0.2.0",
-    "@microsoft/sp-client-preview": "~0.2.0"
+    "@microsoft/sp-client-preview": "~0.2.0",
+    "@microsoft/sp-module-loader": "^0.2.0",
+    "angular": "^1.5.8"
   },
   "devDependencies": {
     "@microsoft/sp-build-web": "~0.5.0",

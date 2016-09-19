@@ -1,0 +1,7 @@
+{
+  "globalDependencies": {
+    "angular": "registry:dt/angular#1.5.0+20160909133806",
+    "combokeys": "registry:dt/combokeys#2.4.6+20160602154345",
+    "jquery": "registry:dt/jquery#1.10.0+20160908203239"
+  }
+}

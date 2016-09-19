@@ -9,11 +9,11 @@
   "preconfiguredEntries": [{
     "groupId": "f525b406-ff78-4cfb-af27-a87a1e8f150f",
     "group": { "default": "Under Development" },
-    "title": { "default": "MovieSearch" },
+    "title": { "default": "Movie Search" },
     "description": { "default": "Web Part that searches for Movies" },
     "officeFabricIconFontName": "Page",
     "properties": {
-      "description": "MovieSearch"
+      "description": "Movie Search"
     }
   }]
 }
